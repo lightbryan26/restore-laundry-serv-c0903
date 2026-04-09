@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lightbryan26.github.io/restore-laundry-serv-c0903/sitemap.xml
+Sitemap: https://restore-laundry-serv-c0903.pages.dev/sitemap.xml
